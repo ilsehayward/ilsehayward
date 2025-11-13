@@ -4,13 +4,13 @@
 
 ## About Me 🚀
 
-I'm a passionate **Software Development / Front End, Back End and Data** with experience in **[Microsoft products, Angular, Mainframe, Cobol and the Web]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Development / Front End, Back End and Data** with experience in **Microsoft products, Angular, Mainframe, Cobol and the Web**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[the fundamentals of Artificial Intelligence, Azure Stream Analytics and Data as well as Typescript 2025 Edition]**
-- 🔭 Working on: **[a MVC website for SACO]**
-- 🌍 Languages: **[Microsoft SQL, Angular, C#, Typescript, Front End Development, Back End Development, ASP.Net, REST Api]**
-- 📫 How to reach me: **[777.make.a.wish@gmail.com]**
-- ⚡ Fun fact: **[after hours I am a Ballet Dancer]**
+- 🌱 Currently learning: **the fundamentals of Artificial Intelligence, Azure Stream Analytics and Data as well as Typescript 2025 Edition**
+- 🔭 Working on: **a MVC website for SACO**
+- 🌍 Languages: **Microsoft SQL, Angular, C#, Typescript, Front End Development, Back End Development, ASP.Net, REST Api**
+- 📫 How to reach me: **777.make.a.wish@gmail.com**
+- ⚡ Fun fact: **after hours I am a Ballet Dancer**
 
 ## My Skills 🧠
 
