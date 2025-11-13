@@ -1,4 +1,4 @@
-# Hi there, I'm [Ilse Hayward]! 👋
+# Hi there, I'm Ilse Hayward! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
